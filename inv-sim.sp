@@ -9,7 +9,7 @@
 
 X1		in    out   vdd   gnd   inv
 C0		out	  gnd   2E-15F
-Vvdd 	vdd   0     1.8v
+Vvdd 	vdd   0     3.3v
 Vgnd 	gnd   0     0v
 VINA  	in    0     pulse(0 3.3 0 1ps 1ps 500ns 1000ns)
 
