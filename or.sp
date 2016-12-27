@@ -2,7 +2,7 @@
 * SPICE netlist written by Mehrshad Lotfi
 
 .include nor.sp
-.include inv.sp
+.include and.sp
 
 .SUBCKT    or    ina   inb   out   vdd   gnd
 	X1     ina   inb   mid   vdd   gnd  nor
